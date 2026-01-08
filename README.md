@@ -16,3 +16,6 @@ The next features that will be added:
 - Go To Definition
 - Intellisense
 - MAC OS and Linux version
+
+<img width="1310" height="741" alt="cerbide1" src="https://github.com/user-attachments/assets/c50dec37-819f-41af-976a-625f074b6a1e" />
+
