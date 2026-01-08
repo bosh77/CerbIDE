@@ -1,6 +1,7 @@
 # CerbIDE
 CerbIDE - IDE for Cerberus X
 
+DOWNLOAD LINK
 https://github.com/bosh77/CerbIDE/releases/tag/cerberus
 
 CerbIDE is an IDE for programming with Cerberus X. This is the first version, still to be tested, currently only available for Windows, and with minimal features. It is likely to contain some bugs.
