@@ -1,6 +1,8 @@
 # CerbIDE
 CerbIDE - IDE for Cerberus X
 
+https://github.com/bosh77/CerbIDE/releases/tag/cerberus
+
 CerbIDE is an IDE for programming with Cerberus X. This is the first version, still to be tested, currently only available for Windows, and with minimal features. It is likely to contain some bugs.
 
 The IDE has the usual text editor functions, so cut, copy and paste, and others... In addition, there are the Split functions, to divide the sheets into 2 separate windows. 
