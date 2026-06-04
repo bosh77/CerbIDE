@@ -1,6 +1,8 @@
 # CerbIDE
 CerbIDE - IDE for Cerberus X
 
+Available for Windows and Linux
+
 DOWNLOAD LINK
 https://github.com/bosh77/CerbIDE/releases/tag/cerberus
 
@@ -11,11 +13,12 @@ The IDE has the usual text editor functions, so cut, copy and paste, and others.
 With CTRL + K you can select the main project, very useful for not having to return to the project every time you run the app. 
 The Shortcuts window contains the list of bookmarks, classes, etc. To create a bookmark, simply write "note:" after the apostrophe, or even just an "@", for example: '@this is a bookmark.' 
 
+You can now choose between four different themes: Default, Dark, Light, Custom with the ability to change the IDE colors as you like.
+
+New features in this version are: Syntax Highlighting, Go To Definition (F12), Autocomplete, Text Indentation (F11)
+
 The next features that will be added:
-- Syntax Highlighting
-- Go To Definition
-- Intellisense
-- MAC OS and Linux version
+- MAC OS version
 
 <img width="1310" height="741" alt="cerbide1" src="https://github.com/user-attachments/assets/c50dec37-819f-41af-976a-625f074b6a1e" />
 
