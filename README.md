@@ -20,5 +20,5 @@ New features in this version are: Syntax Highlighting, Go To Definition (F12), A
 The next features that will be added:
 - MAC OS version
 
-<img width="1310" height="741" alt="cerbide1" src="https://github.com/user-attachments/assets/c50dec37-819f-41af-976a-625f074b6a1e" />
+<img width="1674" height="932" alt="v2026-08-25" src="https://github.com/user-attachments/assets/ed2aec79-c0ff-4619-83e4-d5ca232a0f60" />
 
