@@ -1,7 +1,7 @@
 # CerbIDE
 CerbIDE - IDE for Cerberus X
 
-Available for Windows and Linux
+Available for Windows, MacOS and Linux
 
 DOWNLOAD LINK
 https://github.com/bosh77/CerbIDE/releases/tag/cerberus
