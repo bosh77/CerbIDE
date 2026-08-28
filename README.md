@@ -6,7 +6,7 @@ Available for Windows, MacOS and Linux
 DOWNLOAD LINK
 https://github.com/bosh77/CerbIDE/releases/tag/cerberus
 
-CerbIDE is an IDE for programming with Cerberus X. This is the version 3, still to be tested, currently available for Windows and Linux. It is likely to contain some bugs.
+CerbIDE is an IDE for programming with Cerberus X. This is the version 4, still to be tested, currently available for Windows and Linux. It is likely to contain some bugs.
 
 The IDE has the usual text editor functions, so cut, copy and paste, and others... In addition, there are the Split functions, to divide the sheets into 2 separate windows. 
 
