@@ -17,8 +17,5 @@ You can now choose between four different themes: Default, Dark, Light, Custom w
 
 New features in this version are: Syntax Highlighting, Go To Definition (F12), Autocomplete, Text Indentation (F11)
 
-The next features that will be added:
-- MAC OS version
-
 <img width="1674" height="932" alt="v2026-08-25" src="https://github.com/user-attachments/assets/ed2aec79-c0ff-4619-83e4-d5ca232a0f60" />
 
